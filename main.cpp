@@ -1,5 +1,5 @@
 #include <iostream>
-//[C_MM26-©ö] ¿é¥X 1*1¡B2*2¡B...¡BN*N¤§µ²ªG
+//[C_MM26-æ˜“] è¼¸å‡º 1*1ã€2*2ã€...ã€N*Nä¹‹çµæœ
 using namespace std;
 
 int main()
